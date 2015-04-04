@@ -8,6 +8,10 @@ My wife and I run a small freight business from
 our home.  We both have considered going into
 teaching or some other kind of work with kids and
 hiring other people to run our business.
+For now we continue to work in our business while
+I go to school and we try to manage our 4 kids and
+hope they don't kill us, but we are losing that
+battle.
 
 #Programming Background
 I had no experience in programming prior to this program
