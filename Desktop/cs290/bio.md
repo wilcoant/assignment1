@@ -4,7 +4,10 @@ I currently live in Northern CA in Rocklin
 I like to wakeboard, ski, and spend time at home
 with my family when we aren't a youth sporting 
 events.  
-
+Well this is alternate bio information and changes for
+that commit.  Alternatively I guess I would have liked
+to have stayed in the Army longer.... I wrecked a 
+GSXR600 back in 2002 and it ended my Army career.
 #Programming Background
 I had no experience in programming prior to this program
 I had made a word press website and done some very basic
